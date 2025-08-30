@@ -1,0 +1,1 @@
+BM25 is a probabilistic retrieval function that ranks documents based on term frequency and inverse document frequency. It is effective for keyword matching.

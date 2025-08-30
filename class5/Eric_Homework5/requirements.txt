@@ -1,0 +1,19 @@
+# faiss-cpu==1.8.0.post1
+# sentence-transformers==3.0.1
+# numpy>=1.24.0
+# pandas>=2.0.0
+# tqdm>=4.66.0
+# fastapi>=0.111.0
+# uvicorn>=0.30.0
+# pydantic>=2.7.0
+# # Optional: if you want a pure-Python BM25 fallback
+# rank-bm25>=0.2.2
+faiss-cpu==1.8.0
+sentence-transformers==3.0.1
+numpy==1.26.4
+pandas==2.2.3
+tqdm>=4.66.0
+fastapi>=0.111.0
+uvicorn>=0.30.0
+pydantic>=2.7.0
+rank-bm25>=0.2.2
