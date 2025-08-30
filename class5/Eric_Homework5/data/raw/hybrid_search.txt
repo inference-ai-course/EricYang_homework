@@ -1,1 +1,0 @@
-Hybrid retrieval combines dense semantic vectors with sparse keyword signals. RRF and weighted sums are common fusion methods. FAISS enables fast ANN search.

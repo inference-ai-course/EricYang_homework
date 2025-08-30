@@ -1,1 +1,0 @@
-FAISS is a library for efficient similarity search and clustering of dense vectors. It supports IndexFlatIP for cosine-like similarity when vectors are normalized.
