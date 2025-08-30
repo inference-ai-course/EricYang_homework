@@ -1,0 +1,67 @@
+{
+  "queries": [
+    {
+      "q": "hybrid retrieval FAISS BM25",
+      "relevant_titles": [
+        "hybrid_search",
+        "sqlite_fts5",
+        "faiss_basics",
+        "bm25_intro"
+      ]
+    },
+    {
+      "q": "what is FTS5",
+      "relevant_titles": [
+        "sqlite_fts5"
+      ]
+    },
+    {
+      "q": "dense vector inner product",
+      "relevant_titles": [
+        "faiss_basics"
+      ]
+    },
+    {
+      "q": "neural layers and backpropagation",
+      "relevant_titles": [
+        "neural_networks"
+      ]
+    },
+    {
+      "q": "probabilistic ranking BM25",
+      "relevant_titles": [
+        "bm25_intro"
+      ]
+    },
+    {
+      "q": "cosine similarity normalized vectors",
+      "relevant_titles": [
+        "faiss_basics"
+      ]
+    },
+    {
+      "q": "fusion methods weighted sum reciprocal rank fusion",
+      "relevant_titles": [
+        "hybrid_search"
+      ]
+    },
+    {
+      "q": "keyword search with match query",
+      "relevant_titles": [
+        "sqlite_fts5"
+      ]
+    },
+    {
+      "q": "combining exact keywords and semantic similarity",
+      "relevant_titles": [
+        "hybrid_search"
+      ]
+    },
+    {
+      "q": "gradient descent training",
+      "relevant_titles": [
+        "neural_networks"
+      ]
+    }
+  ]
+}

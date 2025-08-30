@@ -1,0 +1,1 @@
+SQLite FTS5 supports full-text search with BM25 ranking and MATCH queries. It can index content stored in an external content table.

@@ -1,0 +1,302 @@
+[
+  {
+    "paper_id": "2508.10123v1",
+    "title": "Nested-ReFT_Efficient_Reinforcement_Learning_for_Large_Language_Model_Fine-Tuning_via_Off-Policy_Rollouts",
+    "path": "data\\raw_pdfs\\2508.10123v1__Nested-ReFT_Efficient_Reinforcement_Learning_for_Large_Language_Model_Fine-Tuning_via_Off-Policy_Rollouts.pdf",
+    "num_chunks": 16
+  },
+  {
+    "paper_id": "2508.10137v1",
+    "title": "mSCoRe_a_M_ultilingual_and_Scalable_Benchmark_for_S_kill-based_Co_mmonsense_Re_asoning",
+    "path": "data\\raw_pdfs\\2508.10137v1__mSCoRe_a_M_ultilingual_and_Scalable_Benchmark_for_S_kill-based_Co_mmonsense_Re_asoning.pdf",
+    "num_chunks": 36
+  },
+  {
+    "paper_id": "2508.10142v1",
+    "title": "Multi-Turn_Puzzles_Evaluating_Interactive_Reasoning_and_Strategic_Dialogue_in_LLMs",
+    "path": "data\\raw_pdfs\\2508.10142v1__Multi-Turn_Puzzles_Evaluating_Interactive_Reasoning_and_Strategic_Dialogue_in_LLMs.pdf",
+    "num_chunks": 20
+  },
+  {
+    "paper_id": "2508.10161v1",
+    "title": "LaajMeter_A_Framework_for_LaaJ_Evaluation",
+    "path": "data\\raw_pdfs\\2508.10161v1__LaajMeter_A_Framework_for_LaaJ_Evaluation.pdf",
+    "num_chunks": 11
+  },
+  {
+    "paper_id": "2508.10175v1",
+    "title": "Estimating_Machine_Translation_Difficulty",
+    "path": "data\\raw_pdfs\\2508.10175v1__Estimating_Machine_Translation_Difficulty.pdf",
+    "num_chunks": 28
+  },
+  {
+    "paper_id": "2508.10180v1",
+    "title": "Efficient_Forward-Only_Data_Valuation_for_Pretrained_LLMs_and_VLMs",
+    "path": "data\\raw_pdfs\\2508.10180v1__Efficient_Forward-Only_Data_Valuation_for_Pretrained_LLMs_and_VLMs.pdf",
+    "num_chunks": 19
+  },
+  {
+    "paper_id": "2508.10186v1",
+    "title": "PakBBQ_A_Culturally_Adapted_Bias_Benchmark_for_QA",
+    "path": "data\\raw_pdfs\\2508.10186v1__PakBBQ_A_Culturally_Adapted_Bias_Benchmark_for_QA.pdf",
+    "num_chunks": 14
+  },
+  {
+    "paper_id": "2508.10192v1",
+    "title": "Prompt-Response_Semantic_Divergence_Metrics_for_Faithfulness_Hallucination_and_Misalignment_Detection_in_Large_Language_",
+    "path": "data\\raw_pdfs\\2508.10192v1__Prompt-Response_Semantic_Divergence_Metrics_for_Faithfulness_Hallucination_and_Misalignment_Detection_in_Large_Language_.pdf",
+    "num_chunks": 27
+  },
+  {
+    "paper_id": "2508.10222v1",
+    "title": "Understanding_Textual_Emotion_Through_Emoji_Prediction",
+    "path": "data\\raw_pdfs\\2508.10222v1__Understanding_Textual_Emotion_Through_Emoji_Prediction.pdf",
+    "num_chunks": 10
+  },
+  {
+    "paper_id": "2508.10226v1",
+    "title": "Using_Large_Language_Models_to_Measure_Symptom_Severity_in_Patients_At_Risk_for_Schizophrenia",
+    "path": "data\\raw_pdfs\\2508.10226v1__Using_Large_Language_Models_to_Measure_Symptom_Severity_in_Patients_At_Risk_for_Schizophrenia.pdf",
+    "num_chunks": 11
+  },
+  {
+    "paper_id": "2508.10239v1",
+    "title": "Personalized_Real-time_Jargon_Support_for_Online_Meetings",
+    "path": "data\\raw_pdfs\\2508.10239v1__Personalized_Real-time_Jargon_Support_for_Online_Meetings.pdf",
+    "num_chunks": 29
+  },
+  {
+    "paper_id": "2508.10246v1",
+    "title": "A_Computational_Approach_to_Analyzing_Language_Change_and_Variation_in_the_Constructed_Language_Toki_Pona",
+    "path": "data\\raw_pdfs\\2508.10246v1__A_Computational_Approach_to_Analyzing_Language_Change_and_Variation_in_the_Constructed_Language_Toki_Pona.pdf",
+    "num_chunks": 10
+  },
+  {
+    "paper_id": "2508.10295v1",
+    "title": "Inductive_Bias_Extraction_and_Matching_for_LLM_Prompts",
+    "path": "data\\raw_pdfs\\2508.10295v1__Inductive_Bias_Extraction_and_Matching_for_LLM_Prompts.pdf",
+    "num_chunks": 19
+  },
+  {
+    "paper_id": "2508.10304v1",
+    "title": "Yet_another_algorithmic_bias_A_Discursive_Analysis_of_Large_Language_Models_Reinforcing_Dominant_Discourses_on_Gender_an",
+    "path": "data\\raw_pdfs\\2508.10304v1__Yet_another_algorithmic_bias_A_Discursive_Analysis_of_Large_Language_Models_Reinforcing_Dominant_Discourses_on_Gender_an.pdf",
+    "num_chunks": 34
+  },
+  {
+    "paper_id": "2508.10308v1",
+    "title": "ReviewRL_Towards_Automated_Scientific_Review_with_RL",
+    "path": "data\\raw_pdfs\\2508.10308v1__ReviewRL_Towards_Automated_Scientific_Review_with_RL.pdf",
+    "num_chunks": 16
+  },
+  {
+    "paper_id": "2508.10311v1",
+    "title": "From_Surface_to_Semantics_Semantic_Structure_Parsing_for_Table-Centric_Document_Analysis",
+    "path": "data\\raw_pdfs\\2508.10311v1__From_Surface_to_Semantics_Semantic_Structure_Parsing_for_Table-Centric_Document_Analysis.pdf",
+    "num_chunks": 16
+  },
+  {
+    "paper_id": "2508.10312v1",
+    "title": "Beyond_Semantic_Understanding_Preserving_Collaborative_Frequency_Components_in_LLM-based_Recommendation",
+    "path": "data\\raw_pdfs\\2508.10312v1__Beyond_Semantic_Understanding_Preserving_Collaborative_Frequency_Components_in_LLM-based_Recommendation.pdf",
+    "num_chunks": 22
+  },
+  {
+    "paper_id": "2508.10352v1",
+    "title": "Cross-Prompt_Encoder_for_Low-Performing_Languages",
+    "path": "data\\raw_pdfs\\2508.10352v1__Cross-Prompt_Encoder_for_Low-Performing_Languages.pdf",
+    "num_chunks": 14
+  },
+  {
+    "paper_id": "2508.10355v1",
+    "title": "Making_Qwen3_Think_in_Korean_with_Reinforcement_Learning",
+    "path": "data\\raw_pdfs\\2508.10355v1__Making_Qwen3_Think_in_Korean_with_Reinforcement_Learning.pdf",
+    "num_chunks": 31
+  },
+  {
+    "paper_id": "2508.10356v1",
+    "title": "Improving_OCR_for_Historical_Texts_of_Multiple_Languages",
+    "path": "data\\raw_pdfs\\2508.10356v1__Improving_OCR_for_Historical_Texts_of_Multiple_Languages.pdf",
+    "num_chunks": 14
+  },
+  {
+    "paper_id": "2508.10366v1",
+    "title": "Advancing_Cross-lingual_Aspect-Based_Sentiment_Analysis_with_LLMs_and_Constrained_Decoding_for_Sequence-to-Sequence_Mode",
+    "path": "data\\raw_pdfs\\2508.10366v1__Advancing_Cross-lingual_Aspect-Based_Sentiment_Analysis_with_LLMs_and_Constrained_Decoding_for_Sequence-to-Sequence_Mode.pdf",
+    "num_chunks": 15
+  },
+  {
+    "paper_id": "2508.10368v1",
+    "title": "Large_Language_Models_for_Summarizing_Czech_Historical_Documents_and_Beyond",
+    "path": "data\\raw_pdfs\\2508.10368v1__Large_Language_Models_for_Summarizing_Czech_Historical_Documents_and_Beyond.pdf",
+    "num_chunks": 10
+  },
+  {
+    "paper_id": "2508.10369v1",
+    "title": "Improving_Generative_Cross-lingual_Aspect-Based_Sentiment_Analysis_with_Constrained_Decoding",
+    "path": "data\\raw_pdfs\\2508.10369v1__Improving_Generative_Cross-lingual_Aspect-Based_Sentiment_Analysis_with_Constrained_Decoding.pdf",
+    "num_chunks": 31
+  },
+  {
+    "paper_id": "2508.10390v1",
+    "title": "Jailbreaking_Commercial_Black-Box_LLMs_with_Explicitly_Harmful_Prompts",
+    "path": "data\\raw_pdfs\\2508.10390v1__Jailbreaking_Commercial_Black-Box_LLMs_with_Explicitly_Harmful_Prompts.pdf",
+    "num_chunks": 30
+  },
+  {
+    "paper_id": "2508.10404v1",
+    "title": "Layer-Wise_Perturbations_via_Sparse_Autoencoders_for_Adversarial_Text_Generation",
+    "path": "data\\raw_pdfs\\2508.10404v1__Layer-Wise_Perturbations_via_Sparse_Autoencoders_for_Adversarial_Text_Generation.pdf",
+    "num_chunks": 34
+  },
+  {
+    "paper_id": "2508.10416v1",
+    "title": "CorrectNav_Self-Correction_Flywheel_Empowers_Vision-Language-Action_Navigation_Model",
+    "path": "data\\raw_pdfs\\2508.10416v1__CorrectNav_Self-Correction_Flywheel_Empowers_Vision-Language-Action_Navigation_Model.pdf",
+    "num_chunks": 15
+  },
+  {
+    "paper_id": "2508.10419v1",
+    "title": "ComoRAG_A_Cognitive-Inspired_Memory-Organized_RAG_for_Stateful_Long_Narrative_Reasoning",
+    "path": "data\\raw_pdfs\\2508.10419v1__ComoRAG_A_Cognitive-Inspired_Memory-Organized_RAG_for_Stateful_Long_Narrative_Reasoning.pdf",
+    "num_chunks": 21
+  },
+  {
+    "paper_id": "2508.10421v1",
+    "title": "Evaluating_LLMs_on_Chinese_Idiom_Translation",
+    "path": "data\\raw_pdfs\\2508.10421v1__Evaluating_LLMs_on_Chinese_Idiom_Translation.pdf",
+    "num_chunks": 30
+  },
+  {
+    "paper_id": "2508.10426v1",
+    "title": "Computational_Economics_in_Large_Language_Models_Exploring_Model_Behavior_and_Incentive_Design_under_Resource_Constraint",
+    "path": "data\\raw_pdfs\\2508.10426v1__Computational_Economics_in_Large_Language_Models_Exploring_Model_Behavior_and_Incentive_Design_under_Resource_Constraint.pdf",
+    "num_chunks": 19
+  },
+  {
+    "paper_id": "2508.10444v1",
+    "title": "DiFaR_Enhancing_Multimodal_Misinformation_Detection_with_Diverse_Factual_and_Relevant_Rationales",
+    "path": "data\\raw_pdfs\\2508.10444v1__DiFaR_Enhancing_Multimodal_Misinformation_Detection_with_Diverse_Factual_and_Relevant_Rationales.pdf",
+    "num_chunks": 22
+  },
+  {
+    "paper_id": "2508.10482v1",
+    "title": "When_Explainability_Meets_Privacy_An_Investigation_at_the_Intersection_of_Post-hoc_Explainability_and_Differential_Priva",
+    "path": "data\\raw_pdfs\\2508.10482v1__When_Explainability_Meets_Privacy_An_Investigation_at_the_Intersection_of_Post-hoc_Explainability_and_Differential_Priva.pdf",
+    "num_chunks": 26
+  },
+  {
+    "paper_id": "2508.10492v1",
+    "title": "Reverse_Physician-AI_Relationship_Full-process_Clinical_Diagnosis_Driven_by_a_Large_Language_Model",
+    "path": "data\\raw_pdfs\\2508.10492v1__Reverse_Physician-AI_Relationship_Full-process_Clinical_Diagnosis_Driven_by_a_Large_Language_Model.pdf",
+    "num_chunks": 52
+  },
+  {
+    "paper_id": "2508.10530v1",
+    "title": "Diversity_First_Quality_Later_A_Two-Stage_Assumption_for_Language_Model_Alignment",
+    "path": "data\\raw_pdfs\\2508.10530v1__Diversity_First_Quality_Later_A_Two-Stage_Assumption_for_Language_Model_Alignment.pdf",
+    "num_chunks": 29
+  },
+  {
+    "paper_id": "2508.10539v1",
+    "title": "Improving_Value-based_Process_Verifier_via_Low-Cost_Variance_Reduction",
+    "path": "data\\raw_pdfs\\2508.10539v1__Improving_Value-based_Process_Verifier_via_Low-Cost_Variance_Reduction.pdf",
+    "num_chunks": 28
+  },
+  {
+    "paper_id": "2508.10548v1",
+    "title": "Stabilizing_Long-term_Multi-turn_Reinforcement_Learning_with_Gated_Rewards",
+    "path": "data\\raw_pdfs\\2508.10548v1__Stabilizing_Long-term_Multi-turn_Reinforcement_Learning_with_Gated_Rewards.pdf",
+    "num_chunks": 22
+  },
+  {
+    "paper_id": "2508.10552v1",
+    "title": "When_Language_Overrules_Revealing_Text_Dominance_in_Multimodal_Large_Language_Models",
+    "path": "data\\raw_pdfs\\2508.10552v1__When_Language_Overrules_Revealing_Text_Dominance_in_Multimodal_Large_Language_Models.pdf",
+    "num_chunks": 14
+  },
+  {
+    "paper_id": "2508.10553v1",
+    "title": "eDIF_A_European_Deep_Inference_Fabric_for_Remote_Interpretability_of_LLM",
+    "path": "data\\raw_pdfs\\2508.10553v1__eDIF_A_European_Deep_Inference_Fabric_for_Remote_Interpretability_of_LLM.pdf",
+    "num_chunks": 14
+  },
+  {
+    "paper_id": "2508.10683v1",
+    "title": "Neural_Machine_Translation_for_Coptic-French_Strategies_for_Low-Resource_Ancient_Languages",
+    "path": "data\\raw_pdfs\\2508.10683v1__Neural_Machine_Translation_for_Coptic-French_Strategies_for_Low-Resource_Ancient_Languages.pdf",
+    "num_chunks": 13
+  },
+  {
+    "paper_id": "2508.10687v1",
+    "title": "Continuous_Bangla_Sign_Language_Translation_Mitigating_the_Expense_of_Gloss_Annotation_with_the_Assistance_of_Graph",
+    "path": "data\\raw_pdfs\\2508.10687v1__Continuous_Bangla_Sign_Language_Translation_Mitigating_the_Expense_of_Gloss_Annotation_with_the_Assistance_of_Graph.pdf",
+    "num_chunks": 48
+  },
+  {
+    "paper_id": "2508.10695v1",
+    "title": "Learning_from_Natural_Language_Feedback_for_Personalized_Question_Answering",
+    "path": "data\\raw_pdfs\\2508.10695v1__Learning_from_Natural_Language_Feedback_for_Personalized_Question_Answering.pdf",
+    "num_chunks": 24
+  },
+  {
+    "paper_id": "2508.10736v1",
+    "title": "Thinking_Inside_the_Mask_In-Place_Prompting_in_Diffusion_LLMs",
+    "path": "data\\raw_pdfs\\2508.10736v1__Thinking_Inside_the_Mask_In-Place_Prompting_in_Diffusion_LLMs.pdf",
+    "num_chunks": 14
+  },
+  {
+    "paper_id": "2508.10751v1",
+    "title": "Pass_k_Training_for_Adaptively_Balancing_Exploration_and_Exploitation_of_Large_Reasoning_Models",
+    "path": "data\\raw_pdfs\\2508.10751v1__Pass_k_Training_for_Adaptively_Balancing_Exploration_and_Exploitation_of_Large_Reasoning_Models.pdf",
+    "num_chunks": 34
+  },
+  {
+    "paper_id": "2508.10795v1",
+    "title": "Beyond_Not_Novel_Enough_Enriching_Scholarly_Critique_with_LLM-Assisted_Feedback",
+    "path": "data\\raw_pdfs\\2508.10795v1__Beyond_Not_Novel_Enough_Enriching_Scholarly_Critique_with_LLM-Assisted_Feedback.pdf",
+    "num_chunks": 22
+  },
+  {
+    "paper_id": "2508.10824v1",
+    "title": "Memory-Augmented_Transformers_A_Systematic_Review_from_Neuroscience_Principles_to_Technical_Solutions",
+    "path": "data\\raw_pdfs\\2508.10824v1__Memory-Augmented_Transformers_A_Systematic_Review_from_Neuroscience_Principles_to_Technical_Solutions.pdf",
+    "num_chunks": 36
+  },
+  {
+    "paper_id": "2508.10839v1",
+    "title": "Reinforced_Language_Models_for_Sequential_Decision_Making",
+    "path": "data\\raw_pdfs\\2508.10839v1__Reinforced_Language_Models_for_Sequential_Decision_Making.pdf",
+    "num_chunks": 19
+  },
+  {
+    "paper_id": "2508.10848v1",
+    "title": "Psyche-R1_Towards_Reliable_Psychological_LLMs_through_Unified_Empathy_Expertise_and_Reasoning",
+    "path": "data\\raw_pdfs\\2508.10848v1__Psyche-R1_Towards_Reliable_Psychological_LLMs_through_Unified_Empathy_Expertise_and_Reasoning.pdf",
+    "num_chunks": 17
+  },
+  {
+    "paper_id": "2508.10860v1",
+    "title": "From_Black_Box_to_Transparency_Enhancing_Automated_Interpreting_Assessment_with_Explainable_AI_in_College_Classrooms",
+    "path": "data\\raw_pdfs\\2508.10860v1__From_Black_Box_to_Transparency_Enhancing_Automated_Interpreting_Assessment_with_Explainable_AI_in_College_Classrooms.pdf",
+    "num_chunks": 23
+  },
+  {
+    "paper_id": "2508.10874v1",
+    "title": "SSRL_Self-Search_Reinforcement_Learning",
+    "path": "data\\raw_pdfs\\2508.10874v1__SSRL_Self-Search_Reinforcement_Learning.pdf",
+    "num_chunks": 43
+  },
+  {
+    "paper_id": "2508.10875v1",
+    "title": "A_Survey_on_Diffusion_Language_Models",
+    "path": "data\\raw_pdfs\\2508.10875v1__A_Survey_on_Diffusion_Language_Models.pdf",
+    "num_chunks": 44
+  },
+  {
+    "paper_id": "2508.10880v1",
+    "title": "Searching_for_Privacy_Risks_in_LLM_Agents_via_Simulation",
+    "path": "data\\raw_pdfs\\2508.10880v1__Searching_for_Privacy_Risks_in_LLM_Agents_via_Simulation.pdf",
+    "num_chunks": 31
+  }
+]

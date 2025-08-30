@@ -1,0 +1,1 @@
+Neural networks are composed of layers of artificial neurons. Backpropagation and gradient descent enable training.
